@@ -1,0 +1,39 @@
+p
+{
+box-shadow: 6px 6px 6px black;
+}
+p
+{
+font-style:italic;
+}p
+{
+font-size:1.4em;
+}
+p 
+{
+	font-weight:bold;
+}
+p 
+{
+	text-align:center;
+}
+p
+{
+border-left: 2px outset white;
+border-right: 2px outset white;
+border-bottom: 2px outset white;
+border-top: 2px outset white;
+}
+p
+{
+border-radius: 20px/10px;
+}
+.envoyez
+{
+	text-align:center;
+}
+body
+{
+	background: url("6.jpg");
+}
+
